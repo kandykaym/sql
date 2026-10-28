@@ -207,7 +207,12 @@ Link if you encounter a paywall: https://archive.is/srKHV or https://web.archive
 
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
-
 ```
-Your thoughts...
+Several Canadian government services are not able to process an individual when they have unique elements in their last name. For example, my partner often experiences errors with registration since his last name includes an apostrophe "O'Connor". Although this is one example, errors can extend to several other elements including spaces between two last names, hyphens, accents and other special characters. These flaws in the design of the database can lead to delays in the service, unnecessary emails and long phone calls with various administrators. In some cases, the work around is to modify your name in the database to suit the requirements of the input. This design flaw disproportionately inconveniences specific groups of the population since problematic elements are more likely to occur within cultural circles.
+
+Beyond specific issues with data entered into a field, government servies also often require you to disclose your address. Although this is a helpful identifyer for the majority of individuals, it fails to recognize that there is a significant group that may not have a home. By requiring individuals provide their address, government services are assuming everyone submitting the form has a home. This may marginalize those who may be experiencing housing instability and could result in issues with accessing services. 
+
+When completing the census this year I noticed that an individual's ability to report ethnicity is limited. As someone who considers themselves mixed, the census enabled me to check several backgrounds, but did not collect any data that would allow for a more nuanced reporting of fractions. Since Canada is such a diverse country, and citizens are likley to become more mixed over time, it would be useful to introduce more nuanced reporting options. Practically, more accurate reporting of census data would improve the efficacy with which the government can respond to the needs of its citizens.
+
+Finally, as our society becomes more digitized, older people may experience increasing inequality due to their lack of familiarity with database interfaces. For example, in the aviation industry it now common to travel with a digital boarding pass and to interact with an automated baggage drop. For those who were not exposed to technology in their youth, it becomes increasingly difficult to manage. 
 ```
