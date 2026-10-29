@@ -56,7 +56,30 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 (overwriting changes)
+When a customer moves, the record is updated. 
+
+CUSTOMER_ADDRESS
+customer_id
+street_name
+street_number
+city
+country
+postal_code
+
+Type 2 (retain record)
+When a customer moves, a new row is added while the old address is retained. 
+
+CUSTOMER_ADDRESS
+address_id (unique id for each address)
+customer_id (same id for all addresses for the same customer)
+street_name
+street_number
+city
+country
+postal_code
+is_current
+
 ```
 
 ***
