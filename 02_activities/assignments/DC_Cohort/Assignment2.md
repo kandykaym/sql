@@ -78,7 +78,7 @@ street_number
 city
 country
 postal_code
-is_current
+is_current (records which address is current)
 
 ```
 
